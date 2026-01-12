@@ -7,6 +7,11 @@ This assignment was completed as part of the **Junior Data Scientist – Trader 
 
 ---
 
+## Google Colab notebook link:  
+https://colab.research.google.com/drive/1SMUku6FlKDjKy03gkLAYUd62hFRCnh1M?usp=sharing
+
+---
+
 ## Datasets Used
 
 ### 1. Bitcoin Fear & Greed Index
